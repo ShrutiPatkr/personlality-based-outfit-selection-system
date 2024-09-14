@@ -1,0 +1,11 @@
+192.168.1.112 : 2024-09-05 15:44:51,899 : INFO : [4183217348.py:45] : Process start
+192.168.1.112 : 2024-09-05 15:44:51,903 : INFO : [2561458356.py:5] : Ignore Warnings
+192.168.1.112 : 2024-09-05 15:44:51,909 : INFO : [4180990911.py:5] : Create folder structure
+192.168.1.112 : 2024-09-05 15:44:51,920 : INFO : [3073169385.py:5] : Cluster formation and applying smote and split
+192.168.1.112 : 2024-09-05 15:44:57,463 : INFO : [4204166383.py:5] : Model Creation for Preferred_clothing
+192.168.1.112 : 2024-09-05 15:45:01,727 : INFO : [4201582880.py:5] : Classifier for two piece wear
+192.168.1.112 : 2024-09-05 15:45:09,522 : INFO : [3050605927.py:5] : Deeplearning Model for two piece wear
+192.168.1.112 : 2024-09-05 15:46:30,217 : INFO : [1814071630.py:5] : Classifier for one piece wear
+192.168.1.112 : 2024-09-05 15:47:22,440 : INFO : [4094372514.py:5] : Deeplearning Model for one piece wear
+192.168.1.112 : 2024-09-05 15:48:26,119 : INFO : [2214019538.py:1] : Process run success
+192.168.1.112 : 2024-09-05 15:48:26,119 : INFO : [2214019538.py:3] : Total time taken = 0:03:34.220570

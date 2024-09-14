@@ -1,0 +1,45 @@
+192.168.1.112 : 2024-09-05 16:22:28,446 : INFO : [3048668818.py:45] : Process start
+192.168.1.112 : 2024-09-05 16:22:28,450 : INFO : [2561458356.py:5] : Ignore Warnings
+192.168.1.112 : 2024-09-05 16:22:28,455 : INFO : [1589805589.py:5] : Downloading NLTK STOPWAORDS
+192.168.1.112 : 2024-09-05 16:22:28,665 : INFO : [300162134.py:5] : Create folder structure
+192.168.1.112 : 2024-09-05 16:22:28,685 : INFO : [3680746.py:1] : Saving Functions
+192.168.1.112 : 2024-09-05 16:22:28,695 : INFO : [948062006.py:5] : Loading inputs
+192.168.1.112 : 2024-09-05 16:22:28,825 : INFO : [406014992.py:5] : Data Preprocessing
+192.168.1.112 : 2024-09-05 16:22:28,879 : INFO : [98284998.py:5] : Cluster Model
+192.168.1.112 : 2024-09-05 16:22:28,937 : INFO : [98284998.py:18] : index_x
+0    1
+Name: Cluster, dtype: int32
+192.168.1.112 : 2024-09-05 16:22:28,944 : INFO : [1993931470.py:5] : Model for Preferred_clothing
+192.168.1.112 : 2024-09-05 16:22:29,263 : INFO : [1993931470.py:20] : index_x
+0    0
+Name: Preferred_Clothing, dtype: int64
+192.168.1.112 : 2024-09-05 16:22:29,293 : INFO : [3531442730.py:6] : Model for One piece clothing
+192.168.1.112 : 2024-09-05 16:22:33,813 : INFO : [2463263403.py:5] : Final Results
+192.168.1.112 : 2024-09-05 16:22:33,849 : INFO : [2463263403.py:25] :   Country of Birth Country of Residence  Birthdate  Gender  \
+0            India                   UK 1996-07-01  Female   
+
+   Approximate weight in kilogram  Approximate height in centimetre  \
+0                              80                               154   
+
+  What type of clothes you prefer to wear  \
+0                             Semi Formal   
+
+                          How do you define yourself Size of clothes you wear  \
+0  Extrovert (Are you outgoing, socially confident?)                       XL   
+
+  What is your favourite color.  \
+0                        Yellow   
+
+  Do you think this color looks best on you and boost your confidence?  \
+0                                                 No                     
+
+  Which color do you think looks best on you and makes you feel confident?  \
+0                                               Pink                         
+
+  Preferred_Clothing                                        Singlepiece  \
+0     One Piece Wear  black full sleeves collar neck above knee leng...   
+
+  Bottoms Upperwear  
+0      NA        NA  
+192.168.1.112 : 2024-09-05 16:22:33,860 : INFO : [2214019538.py:1] : Process run success
+192.168.1.112 : 2024-09-05 16:22:33,860 : INFO : [2214019538.py:3] : Total time taken = 0:00:05.415354
